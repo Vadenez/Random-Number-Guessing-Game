@@ -9,7 +9,7 @@ A game where you guess a number that's been generated within your set threshold 
 This was made using Visual Studios 2019 on 2020-04-18
 
 ### Plans:
-I plan on converting it from CodeBlocks to Visual Studios 2019
+None
 
 ### Links:
 * CodeBlocks: http://www.codeblocks.org/
